@@ -19,6 +19,7 @@ function App() {
         <Route path='/LayoutGrid' element={ <LayoutGrid/>  } />
         <Route path='/HeaderBanner' element={ <HeaderBanner/>  } />
         <Route path='/CardStatusDemo' element={ <CardStatusDemo/> } />
+        <Route path='/AppNavigation' element={ <AppNavigation/> } />
       </Routes>
   
          
