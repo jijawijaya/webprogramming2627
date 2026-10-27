@@ -7,6 +7,7 @@ import KartuRingkasan from './component/KartuRingkasan'
 import WalletSummary from './component/WalletSummary'
 import Badge from './component/Badge'
 
+
 function App() {
   return (
     <>
